@@ -1,0 +1,14 @@
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\bin\Release\netcoreapp2.2\win10-x64\BackUpDatabase.exe
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\bin\Release\netcoreapp2.2\win10-x64\BackUpDatabase.deps.json
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\bin\Release\netcoreapp2.2\win10-x64\BackUpDatabase.runtimeconfig.json
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\bin\Release\netcoreapp2.2\win10-x64\BackUpDatabase.runtimeconfig.dev.json
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\bin\Release\netcoreapp2.2\win10-x64\BackUpDatabase.dll
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\bin\Release\netcoreapp2.2\win10-x64\BackUpDatabase.pdb
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\obj\Release\netcoreapp2.2\win10-x64\BackUpDatabase.csprojAssemblyReference.cache
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\obj\Release\netcoreapp2.2\win10-x64\BackUpDatabase.csproj.CoreCompileInputs.cache
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\obj\Release\netcoreapp2.2\win10-x64\BackUpDatabase.AssemblyInfoInputs.cache
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\obj\Release\netcoreapp2.2\win10-x64\BackUpDatabase.AssemblyInfo.cs
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\obj\Release\netcoreapp2.2\win10-x64\BackUpDatabase.dll
+C:\Users\acctechnology\Source\Repos\BackUpDatabase\BackUpDatabase\obj\Release\netcoreapp2.2\win10-x64\BackUpDatabase.pdb

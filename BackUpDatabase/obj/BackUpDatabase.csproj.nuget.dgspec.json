@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\vmids\\MSSQL_BackupDatabase\\BackUpDatabase\\BackUpDatabase.csproj": {}
+  },
+  "projects": {
+    "D:\\vmids\\MSSQL_BackupDatabase\\BackUpDatabase\\BackUpDatabase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\vmids\\MSSQL_BackupDatabase\\BackUpDatabase\\BackUpDatabase.csproj",
+        "projectName": "BackUpDatabase",
+        "projectPath": "D:\\vmids\\MSSQL_BackupDatabase\\BackUpDatabase\\BackUpDatabase.csproj",
+        "packagesPath": "C:\\Users\\acctechnology\\.nuget\\packages\\",
+        "outputPath": "D:\\vmids\\MSSQL_BackupDatabase\\BackUpDatabase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acctechnology\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\acctechnology\\.dotnet\\NuGetFallbackFolder": {},
+          "http://nuget.syncfusion.com/nuget_javascript/nuget/getsyncfusionpackages/javascript": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
