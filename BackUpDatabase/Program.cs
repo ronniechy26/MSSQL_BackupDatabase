@@ -23,7 +23,7 @@ namespace BackUpDatabase
                     Console.WriteLine("Creating back up file....");
                     Thread.Sleep(2000);
                     string path = $@"BACKUP DATABASE ""{Configuration.DatabaseName}"" TO DISK='{Path.Combine(Configuration.Destination,
-                                   "navy_" + DateTime.Now.ToString("yyyyMMddHHmmssfff") + ".bak")}'";
+                                  Configuration.DatabaseName + DateTime.Now.ToString("yyyyMMddHHmmssfff") + ".bak")}' ";
                     SqlCommand sqlCommand = new SqlCommand(path, sqlConnection);
                     sqlCommand.ExecuteNonQuery();
                     sqlConnection.Close();
